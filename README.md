@@ -1,2 +1,2 @@
-# DEPIAWSC-loud-Architect
-Projects DEPI AWS Cloud Architecture
+# AWS-cloud-Architect
+Projects  AWS Cloud Architecture
