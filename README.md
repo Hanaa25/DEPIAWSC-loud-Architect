@@ -1,2 +1,2 @@
 # AWS-cloud-Architect
-Projects  AWS Cloud Architecture
+ AWS Cloud Architecture
