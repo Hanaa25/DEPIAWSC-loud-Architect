@@ -1,5 +1,9 @@
 # Project 1: Building a Highly Available, Scalable Web Application
 
+📄 The project documentation and architecture diagrams are included in **project1.pdf**.  
+🖼️ All project screenshots and diagrams are contained within the **project1.pdf** file.  
+[Open project1.pdf](project1.pdf)
+
 ## 🧩 Project Overview
 The challenge is to **plan, design, build, and deploy** a web application on the **AWS Cloud** following the **AWS Well-Architected Framework** best practices.
 
@@ -45,7 +49,7 @@ The application manages **student records** (view, add, delete, modify).
 
 ## 🗂️ Project Phases
 
-### **Phase 1: Planning the Design and Estimating Cost**
+### Phase 1: Planning the Design and Estimating Cost
 
 #### Task 1: Creating an Architectural Diagram
 - Design a visual AWS architecture showing all components:
@@ -59,7 +63,7 @@ The application manages **student records** (view, add, delete, modify).
 
 ---
 
-### **Phase 2: Creating a Basic Functional Web Application**
+### Phase 2: Creating a Basic Functional Web Application
 
 #### Task 1: Creating a Virtual Network
 - Create a **VPC** named `project_app`.
@@ -72,7 +76,7 @@ The application manages **student records** (view, add, delete, modify).
 
 ---
 
-### **Phase 3: Decoupling the Application Components**
+### Phase 3: Decoupling the Application Components
 
 #### Task 1: Creating and Configuring the Amazon RDS Database
 - Create a database named `database1` in **Amazon RDS**.
@@ -91,7 +95,7 @@ The application manages **student records** (view, add, delete, modify).
 
 ---
 
-### **Phase 4: Implementing High Availability and Scalability**
+### Phase 4: Implementing High Availability and Scalability
 
 #### Task 1: Creating a Target Group
 - Create a **Target Group** named `web-TG`.
@@ -108,4 +112,8 @@ The application manages **student records** (view, add, delete, modify).
 
 ## ✅ Expected Outcome
 By the end of the project:
-- The web app is **fully functional**, **secure**, **scalable**, **highl**
+- The web app is **fully functional**, **secure**, **scalable**, **highly available**, and **cost-effective**.  
+- Users can **seamlessly manage student records** even under peak loads.  
+- The design adheres to the **AWS Well-Architected Framework pillars**.
+
+---
