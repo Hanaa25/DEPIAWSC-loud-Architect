@@ -1,8 +1,7 @@
 # Project 1: Building a Highly Available, Scalable Web Application
 
-📄 The project documentation and architecture diagrams are included in **project1.pdf**.  
-🖼️ All project screenshots and diagrams are contained within the **project1.pdf** file.  
-[Open project1.pdf](project1.pdf)
+📄 [The project documentation and architecture diagrams are included in project1.pdf](project1.pdf)
+
 
 ![AWS Infrastructure](Diagram.png)
 ## 🧩 Project Overview
