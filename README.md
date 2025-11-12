@@ -3,7 +3,7 @@
 📄 The project documentation and architecture diagrams are included in **project1.pdf**.  
 
 🖼️ All project screenshots and diagrams are contained within the **project1.pdf** file.  
-![AWS Infrastructure](AWS Infrastructure Scalable-Web-App-ALB-AS.png)
+![AWS Infrastructure Diagram](images/AWS%20Infrastructure%20Scalable-Web-App-ALB-AS.png)
 ## 🧩 Project Overview
 The challenge is to **plan, design, build, and deploy** a web application on the **AWS Cloud** following the **AWS Well-Architected Framework** best practices.
 
