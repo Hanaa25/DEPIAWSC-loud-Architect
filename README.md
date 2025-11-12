@@ -1,9 +1,10 @@
 # Project 1: Building a Highly Available, Scalable Web Application
 
 📄 The project documentation and architecture diagrams are included in **project1.pdf**.  
+![AWS Infrastructure](AWS Infrastructure Scalable-Web-App-ALB-AS.png)
+
 🖼️ All project screenshots and diagrams are contained within the **project1.pdf** file.  
 [Open project1.pdf](project1.pdf)
-![AWS Infrastructure](AWS Infrastructure Scalable-Web-App-ALB-AS.png)
 ## 🧩 Project Overview
 The challenge is to **plan, design, build, and deploy** a web application on the **AWS Cloud** following the **AWS Well-Architected Framework** best practices.
 
