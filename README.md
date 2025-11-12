@@ -1,10 +1,11 @@
 # Project 1: Building a Highly Available, Scalable Web Application
 
-📄 The project documentation and architecture diagrams are included in **project1.pdf**.  
+📄 The project documentation and architecture diagrams are included in **[project1.pdf](project1.pdf)**.  
 
-🖼️ All project screenshots and diagrams are contained within the **project1.pdf** file.  
-![AWS Infrastructure Diagram]
-(images/AWS%20Infrastructure%20Scalable-Web-App-ALB-AS.png)
+🖼️ All project screenshots and diagrams are contained within the **project1.pdf** file.
+
+![AWS Infrastructure Diagram](images/AWS%20Infrastructure%20Scalable-Web-App-ALB-AS.png)
+
 ## 🧩 Project Overview
 The challenge is to **plan, design, build, and deploy** a web application on the **AWS Cloud** following the **AWS Well-Architected Framework** best practices.
 
@@ -116,5 +117,3 @@ By the end of the project:
 - The web app is **fully functional**, **secure**, **scalable**, **highly available**, and **cost-effective**.  
 - Users can **seamlessly manage student records** even under peak loads.  
 - The design adheres to the **AWS Well-Architected Framework pillars**.
-
----
